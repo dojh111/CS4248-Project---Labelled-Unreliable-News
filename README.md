@@ -23,6 +23,7 @@ Training dataset was adapted from [here](https://github.com/BUPT-GAMMA/CompareNe
 |__ LSTM_Evaluation.ipynb (Evaluate LSTM model on balancedTest file)
 |__ Evaluate_Sentence.ipynb (Evaluate individual/custom sentences on LSTM model)
 |__ ML_Models.ipynb (Implementation and Training of NB, LR and MLP models)
+|__ Random Forest.ipynb (Implementation and Training of Random Forest Model)
 |__ BERT_Transformer.ipynb (Redacted BERT Model)
 |__ BERT_Evaluaation.ipynb (File for evaluation of BERT Model - REDACTED)
 ```
