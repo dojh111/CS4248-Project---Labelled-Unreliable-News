@@ -45,6 +45,7 @@ The repository contains the source code for training, and evaluation for the fol
 1. Naive Bayes
 1. Logistic Regression (No Tf-Idf)
 1. Multi Layer Perceptron (No Tf-idf)
+1. Random Forest
 1. BERT (Redacted)
 
 ---
